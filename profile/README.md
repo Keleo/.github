@@ -1,6 +1,6 @@
 ## Hey, this is Keleo - the company behind Kimai 👋
 
-We’ve been doing this since **2017**. That's when we made our first commit to [Kimai](https://github.com/kevinpapst/kimai2). We are happy to know that we are helping thousands of companies and freelancers across the 🌎 with their (project) time-tracking workflows.
+We’ve been doing this since **2017**. That's when we made our first commit to the new [Kimai](https://github.com/kevinpapst/kimai2). We are happy to know that we are helping thousands of companies and freelancers across the 🌎 with their (project) time-tracking workflows.
 
 ### Our philosophy
 
